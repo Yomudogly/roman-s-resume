@@ -1,0 +1,34 @@
+{
+  "Skills 🤹🏽‍♂️": [
+    "📎 Proficient Languages:​ JavaScript/ES6, Python", "📎 Familiar Languages:​ PHP, Ruby", "📎 Web Development:​ WordPress, ReactJS, Flask, Bootstrap, MaterialUI, Elementor", "📎 Software Development:​ Agile, CI/CD, REST, GitHub, API", "📎 Tools:​ Trello, Jira, Bitbucket, Git, Webpack, Babel, NodeJS"
+  ],
+  "Projects 👨🏽‍💻": [
+    "🔗 https://www.driveforcss.com/ - website for transportation company built with WordPress, WPBakery, GoogleForms, GoogleMaps API", "🔗 http://govipcars.com/ - website for car rental company built with WordPress, CSSIgniter, NinjaForms", "🔗 https://github.com/Yomudogly/ContactManagementApp/ - multi page ReactJS app with React Hooks, Flux and RestAPI"
+  ],
+  "Experience 🛠": [
+    "🔖 Freelance, ​Ukraine/Russia​ —​ ​Front-End Developer // May 2014 - Present", "🔖 Innova Consult, Miami Beach FL — ​Front-End Developer // February 2019 - Present", "🔖 SP-Link LTD, ​Russia — ​Software Administrator // June 2015 - October 2016"
+  ],
+  "Education 👨🏽‍🎓": [
+	  "🎓 Full Stack Web Developer // 4Geeks Academy, Miami", "🎓 Master in Organizational Mgmt // National Agrarian University, Vinnytsia UA", "🎓 Bachelor in Public Administration // University of Management and Law, Khmelnytskyi UA"
+  ],
+  "Certificates 📜": [
+	  "📍 The Modern JavaScript Bootcamp",
+	  "📍 Become a React Developer",
+	  "📍 React: Creating Full-Stack Site",
+	  "📍 Learning Python",
+	  "📍 Flask Essential Training",
+	  "📍 Computer Science Principles",
+	  "📍 Programming Fundations: Algorithms",
+	  "📍 Agile Development Practices"
+  ],
+  "Languages 🙋🏽‍♂️": [
+	  "💡 English",
+	  "💡 Russian",
+	  "💡 Ukrainian"
+  ],
+  "Contact 📲": [
+	  "📌 954-997-4470",
+	  "📌 khalnepesov@gmail.com",
+	  "📌 https://www.linkedin.com/in/khalnepes/"
+  ]
+}
