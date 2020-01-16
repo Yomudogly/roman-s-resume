@@ -1,7 +1,7 @@
 {
   "name": "roman-dev-resume",
   "version": "1.0.0",
-  "description": "Roman Khalnepesov's Resume",
+  "description": "Roman Khalnepesov Resume",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
